@@ -32,5 +32,4 @@ The code creates a result directory named model_dir. The result directory includ
 * Our code is mainly revised from [Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html).  
 * The code of BERT optimizer is taken from [PyTorch-Transformers](https://github.com/huggingface/pytorch-transformers).  
 
-## Contact
-king6101@gmail.com  
+
