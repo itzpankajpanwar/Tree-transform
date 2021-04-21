@@ -1,6 +1,5 @@
 # Tree Transformer
-This is the official implementation of the paper [Tree Transformer: Integrating Tree Structures into Self-Attention](http://arxiv.org/abs/1909.06639). If you use this code or our results in your research, we'd appreciate you cite our paper as following:
-
+reference paper :  [Tree Transformer: Integrating Tree Structures into Self-Attention](http://arxiv.org/abs/1909.06639). 
 ```
 @article{Wang2019TreeTransformer,
   title={Tree Transformer: Integrating Tree Structures into Self-Attention},
